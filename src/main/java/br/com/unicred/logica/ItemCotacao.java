@@ -45,7 +45,7 @@ public class ItemCotacao {
 	}
 	
 	public double getValorTotal() {
-		// TODO 
+		 
 		return getQuantidade() * getValor();
 	}
 	
